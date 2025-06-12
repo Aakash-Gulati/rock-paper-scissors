@@ -9,3 +9,8 @@ Skills acquired:
     - for loop.
     - use of defer in external js.
     - debugging with the help of console.log().
+    - DOM manipulation.
+- Git and Github:
+    - Learnt basics of git and github.
+    - Merging repos.
+    - Repository cleanup.
